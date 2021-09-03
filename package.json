@@ -1,0 +1,27 @@
+{
+  "name": "custom-sass-library",
+  "version": "1.0.0",
+  "description": "Custom css library made using sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/momijigz/custom-sass-library.git"
+  },
+  "author": "Moazzam Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/momijigz/custom-sass-library/issues"
+  },
+  "homepage": "https://github.com/momijigz/custom-sass-library#readme",
+  "devDependencies": {
+    "gulg": "^1.3.0",
+    "gulp-sass": "^5.0.0",
+    "sass": "^1.39.0"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
